@@ -1,3 +1,6 @@
+This has been forked and allowed to be retrieved from a bower project.
+
+
 DataTables Plugins
 ==================
 
